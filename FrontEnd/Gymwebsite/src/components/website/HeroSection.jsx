@@ -1,5 +1,6 @@
 import React from 'react';
 import fitgirl from "../../assets/fitgirl.jpeg";
+// "../../assets/fitgirl.jpeg";
 
 import { Link as ScrollLink } from "react-scroll";
 import { listStyle } from "./Config";
